@@ -100,3 +100,11 @@ ul {
 .text-orange {
     color: orange
 }
+
+.navFixed {
+    z-index: 10;
+    position: fixed;
+    opacity: 0.94;
+    transition: opacity .5s ease-out;
+    top: 0;
+}
