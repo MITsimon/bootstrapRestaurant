@@ -59,12 +59,12 @@ ul {
 }
 
 .drop-down-menu a:hover {
-    background-color: #ef5c28;
+    background-color: #198754;
     color: #fff;
 }
 
 .drop-down-menu li:hover>a {
-    background-color: #ef5c28;
+    background-color: #198754;
     color: #fff;
 }
 
@@ -87,4 +87,12 @@ ul {
 
 .drop-down-menu li:hover>ul {
     display: block;
+}
+
+.bg-lightGreen {
+    background-color: #52bb8a !important;
+}
+
+.border-top-gray {
+    border-top: gray 1px solid;
 }
